@@ -26,7 +26,7 @@ The PDF Chatbot is an application that allows users to upload PDF files and inte
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ayushwattal/PDF-ChatGpt.git
+   git clone https://github.com/honeybee0716-pro/pdf-chatbot.git
    ```
 
 2. Install the required dependencies:
@@ -64,4 +64,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
-This application was developed using https://www.analyticsvidhya.com/blog/2023/05/build-a-chatgpt-for-pdfs-with-langchain/
+
